@@ -1,0 +1,32 @@
+/* ffadad-ffd6a5-fdffb6-caffbf-9bf6ff-a0c4ff-bdb2ff-ffc6ff-fffffc */
+body {
+    font-family: sans-serif;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    /*flex-direction: row;*/
+
+    /* Main axis */
+    /* justify-content: flex-start;*/
+
+    /* Cross Axis */
+    /* align-items: flex-start; */
+
+    height: 800px;
+    background-color: #a0c4ff;
+}
+
+.flex-item {
+    width: 200px;
+    height: 200px;
+    background-color: #ffadad;
+    font-size: 3rem;
+}
+
+.item-1 { background-color: #ffadad;}
+.item-2 { background-color: #ffd6a5;}
+.item-3 { background-color: #fdffb6;}
+.item-4 { background-color: #caffbf;}
+.item-5 { background-color: #9bf6ff;}

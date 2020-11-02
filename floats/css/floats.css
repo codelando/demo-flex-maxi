@@ -1,0 +1,19 @@
+/* body { } */
+
+.noticias {
+    background-color: tomato;
+    overflow: hidden;
+}
+
+.noticia {
+    background-color: orange;
+}
+
+.noticia img { width: 100%;}
+
+.noticias .noticia {
+    float: left;
+    width: 32%;
+    margin-right: 1%;
+    margin-bottom: 12px;
+}
