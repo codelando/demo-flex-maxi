@@ -1,0 +1,18 @@
+/* ffadad-ffd6a5-fdffb6-caffbf-9bf6ff-a0c4ff-bdb2ff-ffc6ff-fffffc */
+
+body {
+    font-family: sans-serif;
+    background-color: #ffadad;
+}
+
+@media (min-width: 600px) {
+    body {
+        background-color: #ffd6a5;
+    }
+}
+
+@media (min-width: 1024px) {
+    body {
+        background-color: #fdffb6;
+    }
+}
