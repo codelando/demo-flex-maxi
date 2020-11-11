@@ -1,0 +1,98 @@
+/* ffadad-ffd6a5-fdffb6-caffbf-9bf6ff-a0c4ff-bdb2ff-ffc6ff-fffffc */
+
+* { box-sizing: border-box; }
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+/* Contenedor de columnas */
+.columns {
+    display: block;
+    flex-wrap: wrap;
+    margin-left: -12px;
+    margin-right: -12px;
+}
+
+.column {
+    padding: 12px;
+}
+
+
+@media (min-width: 600px) {
+    .columns { display: flex; }
+    .column.is-1 { width: 8.3333%; }
+    .column.is-2 { width: 16.6666%; }
+    .column.is-3 { width: 25%; }
+    .column.is-4 { width: 33.3333%; }
+    .column.is-5 { width: 41.6666%; }
+    .column.is-6 { width: 50%; }
+    .column.is-7 { width: 58.3333%; }
+    .column.is-8 { width: 66.6666%; }
+    .column.is-9 { width: 75%; }
+    .column.is-10 { width: 83.3333%; }
+    .column.is-11 { width: 91.6666%; }
+    .column.is-12 { width: 100%; }
+}
+
+@media (min-width: 1024px) {
+    .column.is-1-tablet { width: 8.3333%; }
+    .column.is-2-tablet { width: 16.6666%; }
+    .column.is-3-tablet { width: 25%; }
+    .column.is-4-tablet { width: 33.3333%; }
+    .column.is-5-tablet { width: 41.6666%; }
+    .column.is-6-tablet { width: 50%; }
+    .column.is-7-tablet { width: 58.3333%; }
+    .column.is-8-tablet { width: 66.6666%; }
+    .column.is-9-tablet { width: 75%; }
+    .column.is-10-tablet { width: 83.3333%; }
+    .column.is-11-tablet { width: 91.6666%; }
+    .column.is-12-tablet { width: 100%; }
+}
+
+@media (min-width: 1280px) {
+    .column.is-1-desktop { width: 8.3333%; }
+    .column.is-2-desktop { width: 16.6666%; }
+    .column.is-3-desktop { width: 25%; }
+    .column.is-4-desktop { width: 33.3333%; }
+    .column.is-5-desktop { width: 41.6666%; }
+    .column.is-6-desktop { width: 50%; }
+    .column.is-7-desktop { width: 58.3333%; }
+    .column.is-8-desktop { width: 66.6666%; }
+    .column.is-9-desktop { width: 75%; }
+    .column.is-10-desktop { width: 83.3333%; }
+    .column.is-11-desktop { width: 91.6666%; }
+    .column.is-12-desktop { width: 100%; }
+}
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+/* Header */
+header {
+    background-color: blue;
+    color: yellow;
+}
+
+header .header-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+header .social,
+header .date { text-align: right; }
+
+/* Footer */
+
+/* Header */
+footer {
+    background-color: yellow;
+    color: blue;
+}
+
+/* Noticias */
+.news img { width: 100% }
