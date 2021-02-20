@@ -1,0 +1,37 @@
+* { box-sizing: border-box; }
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.paginacion {
+    display: flex;
+}
+
+.paginacion-link {
+    display: flex;
+    height: 4rem;
+    width: 4rem;
+    justify-content: center;
+    align-items: center;
+
+
+    margin-right: 1rem;
+
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    font-size: 2rem;
+
+    background-color: tomato;
+}
+
+.paginacion-link:hover {
+    background-color: red;
+}
+
+.paginacion-link.link-activo {
+    background-color: purple;
+}
+
