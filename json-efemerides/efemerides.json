@@ -1,0 +1,112 @@
+[
+    { 
+        "fecha":"1 ene",
+        "efemerides" : [
+            { 
+                "anio" : 1922,
+                "texto" : "Nace Natalio Pescia."
+            },
+            { 
+                "anio" : 1932,
+                "texto" : "Boca vence 4 a 2 a Talleres de Remedios de Escalada y se asegura el primer puesto del campeonato de 1931."
+            }
+        ]
+    },
+    { 
+        "fecha":"2 ene",
+        "efemerides" : [
+            {
+                "anio" : 1932,
+                "texto" : "Boca gana el campeonato de 1931, el primer torneo profesional en el fútbol argentino, una fecha antes del final."
+            }
+        ]
+    },      
+    { 
+        "fecha":"3 ene",
+        "efemerides" : [
+            {
+                "anio" : 1980,
+                "texto" : "Nace Federico Insúa."
+            }
+        ]
+    },
+    { 
+        "fecha":"4 ene",
+        "efemerides" : [
+            { 
+                "anio" : 1941,
+                "texto" : "Boca obtiene la Copa Ibarguren de 1940 al derrotar 5-1 a Rosario Central."
+            }
+        ]
+    },
+    { 
+        "fecha":"5 ene",
+        "efemerides" : [
+            { 
+                "anio" : 2018,
+                "texto" : "Muere Antonio Angelillo."
+            }
+        ]
+    },
+    { 
+        "fecha":"6 ene",
+        "efemerides" : [
+            { 
+                "anio" : 1931,
+                "texto" : "Juega su último partido oficial Ángel Segundo Médici."
+            },
+            { 
+                "anio" : 1932,
+                "texto" : "Boca golea a River 3-0 y da la vuelta en la cancha de su eterno rival."
+            },
+            { 
+                "anio" : 1950,
+                "texto" : "Fallece Alfredo Garasini."
+            },
+            { 
+                "anio" : 1965,
+                "texto" : "Nace Alfredo Graciani."
+            }
+        ]
+    },
+    { 
+        "fecha":"7 ene",
+        "efemerides" : [
+            {
+                "anio" : 1947,
+                "texto" : "Boca golea 6-2 al Corinthians en Brasil."
+            }
+        ]
+    },
+    { 
+        "fecha":"8 ene",
+        "efemerides" : [
+            { 
+                "anio" : 1953,
+                "texto" : "Nace Roberto Mouzo."
+            },
+            { 
+                "anio" : 2004,
+                "texto" : "Fallece Delfín Benítez Cáceres."
+            }
+        ]
+    },
+    { 
+        "fecha":"9 ene",
+        "efemerides" : [
+            {
+                "anio" : 2017,
+                "texto" : "Muere Roberto Cabañas."
+            }
+        ]
+    },
+    { 
+        "fecha":"10 ene",
+        "efemerides" : [
+            {
+                "anio" : 1982,
+                "texto" : "Boca juega por primera vez en Asia. Con Diego Maradona, vence 2-0 al Seiko en Hong Kong."
+            }
+        ]
+    }
+]
